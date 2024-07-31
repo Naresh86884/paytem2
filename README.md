@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps **
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOpsEngineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
