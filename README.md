@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **maven**
 
-- 👯 I’m looking to collaborate on **DevOps Engineering**
+- 👯 I’m looking to collaborate on **DevOps **
 
 - 🤝 I’m looking for help with **DevOps**
 
